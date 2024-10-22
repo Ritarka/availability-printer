@@ -1,7 +1,12 @@
 # availability-printer
 
+I made this because I was getting tired of looking through my calendar anytime and typing stuff out anyone wanted to schedule an interview.  
+Now you can scare off your interviewers by passing off a pathologically machine precise schedule as something written by you :eyes:  
+
+-- the formatting will look just as pretty only if you have a monospace font like most terminal and markdown applications  
+
 This will look through your google calendar and automatically create a list of days/times when you are available to meet.
-This does require a bit of setup, so read through this [document](https://developers.google.com/calendar/api/quickstart/python)
+This does require a bit of setup, so read through this [document](https://developers.google.com/calendar/api/quickstart/python).
 
 ## Next steps
 - [ ] Timezone and scheduling duration via a command line argument
