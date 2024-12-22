@@ -12,7 +12,7 @@ This does require a bit of setup, so read through this [document](https://develo
 - [ ] Timezone and scheduling duration via a command line argument
 - [ ] Handle outlook connections as well
 - [ ] I also want to add a soft margin blocker (i.e. this should be able to store my preferences and not schedule something 30-min before class for example)
-- [ ] 9-5 weekday appoints are allowed so far. Make this more flexible
+- [ ] 9-5 weekday appointments are allowed so far. Make this more flexible
 - [ ] I don't think this can currently handle events that cross midnight. It shouldn't error out at the very least
 - [ ] I don't know why it occasionally ends at 6 pm instead of 5, but it's functional enough for me
 - [ ] Nicer formatting, maybe break up the text with an extra newline after every week printed
