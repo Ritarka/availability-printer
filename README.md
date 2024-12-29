@@ -1,7 +1,6 @@
 # availability-printer
 
 I made this because I was getting tired of looking through my calendar anytime and typing stuff out anyone wanted to schedule an interview.  
-Now you can scare off your interviewers by passing off a pathologically machine precise schedule as something written by you :eyes:  
 
 -- the formatting will look just as pretty only if you have a monospace font like most terminal and markdown applications  
 
@@ -14,7 +13,6 @@ This does require a bit of setup, so read through this [document](https://develo
 - [ ] I also want to add a soft margin blocker (i.e. this should be able to store my preferences and not schedule something 30-min before class for example)
 - [ ] 9-5 weekday appointments are allowed so far. Make this more flexible
 - [ ] I don't think this can currently handle events that cross midnight. It shouldn't error out at the very least
-- [ ] I don't know why it occasionally ends at 6 pm instead of 5, but it's functional enough for me
 - [ ] Nicer formatting, maybe break up the text with an extra newline after every week printed
 
 
